@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when working with lists in Kotlin: attempting to use the `removeIf` function on an immutable list. The `bug.kt` file shows the error, while `bugSolution.kt` provides a solution.  The core issue is understanding the difference between mutable and immutable lists in Kotlin and how to properly handle modifications.
